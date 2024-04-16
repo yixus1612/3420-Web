@@ -1,2 +1,3 @@
-# Serverless web application
-this repository is for the "Build a serverless web application" module of my 3420 class
+# wildrydes-site
+[Repo for the Project](https://github.com/gtjames/Unicorn-OG)
+[Conifg file where all the magic is stored](./js/config.js)
